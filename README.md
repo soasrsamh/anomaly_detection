@@ -1,7 +1,10 @@
 # Social Network Purchase Analysis Summary
 S.L. Howell June 2017
+
 soasrsamh@gmail.com
+
 Insight Data Engineering Coding Challenge 
+
 
 A single python script file, ./src/social_network_purchase_analysis.py, 
 builds a social network of users and detects any behavior 
