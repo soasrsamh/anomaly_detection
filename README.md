@@ -39,9 +39,6 @@ which are definately there. So I always get "0 of 1 tests passed". Sigh.
 
 
 
-
-
-
 # Table of Contents
 1. [Challenge Summary](README.md#challenge-summary)
 2. [Details of Implementation](README.md#details-of-implementation)
