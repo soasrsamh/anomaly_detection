@@ -30,7 +30,7 @@ from operator import itemgetter
 While run.sh works fine on my computer using Cygwin, the test script gives me error messages about missing file or directories, 
 which are definately there. So I always get "0 of 1 tests passed". Sigh.
 
-<src="./images/TestScriptErrorMessageOnCygwin.JPG" width="2000">
+<img src="./images/TestScriptErrorMessageOnCygwin.JPG" width="2000">
 
 
 
