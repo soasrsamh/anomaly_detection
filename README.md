@@ -29,7 +29,8 @@ from operator import itemgetter
 # Worries:
 While run.sh works fine on my computer using Cygwin, the test script gives me error messages about missing file or directories, 
 which are definately there. So I always get "0 of 1 tests passed". Sigh.
-<src="./images/TestScriptErrorMessageOnCygwin.jpg" width="2000">
+
+<src="./images/TestScriptErrorMessageOnCygwin.JPG" width="2000">
 
 
 
