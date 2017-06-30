@@ -6,7 +6,7 @@ A single python script file, ./src/social_network_purchase_analysis.py,
 builds a social network of users and detects any behavior 
 that is far from the average within that social network. 
 
-Further details of the problem statement are included in the sections below.
+Further details of the problem statement are included in the sections below the table of contents.
 
 # Input and Output files:
 initialfilepath = "./log_input/batch_log.json"
@@ -25,6 +25,16 @@ from math import sqrt
 from math import floor
 
 from operator import itemgetter
+
+# Worries:
+While run.sh works fine on my computer using Cygwin, the test script gives me error messages about missing file or directories, 
+which are definately there. So I always get "0 of 1 tests passed". Sigh.
+<src="./images/TestScriptErrorMessageOnCygwin.png" width="2000">
+
+
+
+
+
 
 
 
