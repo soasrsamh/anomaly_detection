@@ -26,11 +26,11 @@ from math import floor
 
 from operator import itemgetter
 
-# Worries:
-While run.sh works fine on my computer using Cygwin, the test script gives me error messages about missing file or directories, 
-which are definately there. So I always get "0 of 1 tests passed". Sigh.
+# Passes the test:
+While run.sh and run_tests.sh work fine on my computer using Cygwin.
+Screenshot of "1 of 1 tests passed" is below.
 
-<img src="./images/TestScriptErrorMessageOnCygwin.JPG" width="2000">
+<img src="./images/PassesTheTest.JPG" width="2000">
 
 
 
