@@ -28,7 +28,8 @@ from operator import itemgetter
 
 # Passes the test:
 While run.sh and run_tests.sh work fine on my computer using Cygwin.
-Screenshot of "1 of 1 tests passed" is below.
+Screenshot of "1 of 1 tests passed" is below, 
+though I'm a little worried about whatever the "diff:" line means.
 
 <img src="./images/PassesTheTest.JPG" width="2000">
 
