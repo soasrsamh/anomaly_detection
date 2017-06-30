@@ -12,7 +12,7 @@ that is far from the average within that social network.
 
 Further details of the original problem statement are included in the sections below the table of contents.
 
-# Imports (nothing too crazy):
+# Imports (nothing too exotic):
 import json
 
 import sys
