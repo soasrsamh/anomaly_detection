@@ -10,7 +10,7 @@ A single python script file, ./src/social_network_purchase_analysis.py,
 builds a social network of users and detects any behavior 
 that is far from the average within that social network. 
 
-Further details of the problem statement are included in the sections below the table of contents.
+Further details of the original problem statement are included in the sections below the table of contents.
 
 # Imports (nothing too crazy):
 import json
