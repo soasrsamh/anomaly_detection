@@ -25,7 +25,7 @@ from operator import itemgetter
 
 # Passes the test:
 run.sh and run_tests.sh seem to work fine on my computer using Cygwin.
-A screenshot of "1 of 1 tests passed" is below for the test_1.
+A screenshot of "1 of 1 tests passed" is below for test_1.
 
 <img src="./images/PassesTest.JPG" width="2000">
 
