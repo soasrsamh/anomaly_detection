@@ -1,3 +1,28 @@
+# Social Network Purchase Analysis Summary
+S.L. Howell June 2017
+Insight Data Engineering Coding Challenge 
+
+A single python script file, ./src/social_network_purchase_analysis.py, builds a social network of users and 
+detects any behavior that is far from the average within that social network. 
+Further details of the problem statement are included in the sections below.
+
+# Input and Output files:
+initialfilepath = "./log_input/batch_log.json"
+streamfilepath = "./log_input/stream_log.json"
+flaggedfilepath = "./log_output/flagged_purchases.json"
+
+# Imports:
+import json
+import sys
+from math import sqrt
+from math import floor
+from operator import itemgetter
+
+
+
+
+
+
 # Table of Contents
 1. [Challenge Summary](README.md#challenge-summary)
 2. [Details of Implementation](README.md#details-of-implementation)
