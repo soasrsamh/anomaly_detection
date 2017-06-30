@@ -1,5 +1,6 @@
 # Social Network Purchase Analysis Summary
 S.L. Howell June 2017
+soasrsamh@gmail.com
 Insight Data Engineering Coding Challenge 
 
 A single python script file, ./src/social_network_purchase_analysis.py, 
@@ -8,14 +9,7 @@ that is far from the average within that social network.
 
 Further details of the problem statement are included in the sections below the table of contents.
 
-# Input and Output files:
-initialfilepath = "./log_input/batch_log.json"
-
-streamfilepath = "./log_input/stream_log.json"
-
-flaggedfilepath = "./log_output/flagged_purchases.json"
-
-# Imports:
+# Imports (nothing too crazy):
 import json
 
 import sys
@@ -28,10 +22,9 @@ from operator import itemgetter
 
 # Passes the test:
 While run.sh and run_tests.sh work fine on my computer using Cygwin.
-Screenshot of "1 of 1 tests passed" is below, 
-though I'm a little worried about whatever the "diff:" line means.
+Screenshot of "1 of 1 tests passed" is below.
 
-<img src="./images/PassesTheTest.JPG" width="2000">
+<img src="./images/PassesTest.JPG" width="2000">
 
 
 
