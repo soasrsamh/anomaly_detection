@@ -72,7 +72,7 @@ class Vertex:
 		self.dist = sys.maxsize
 		self.pred = None
 		self.T =T
-		#A deque with a max length was used so that most unnecessary historical purchases are not stored.
+		#Purchases has a max length of T so that most unnecessary historical purchases are not stored.
 		self.purchases = []
 		
 	def addNeighbor(self,nbr,weight=0):
